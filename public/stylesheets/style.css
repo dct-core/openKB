@@ -96,6 +96,7 @@ html{
 .CodeMirror {
     height: calc(100vh - 110px - 175px - 70px) !important;
     overflow: auto;
+    font-family: monospace;
 }
 
 .btnSettingsUpdate{
